@@ -1,4 +1,4 @@
-# Modeling the supply of strategic raw materials for Europe's 2030 hydrogen target: analyzing dynamics, risks, and resilience}
+# Modeling the supply of strategic raw materials for Europe's 2030 hydrogen target: analyzing dynamics, risks, and resilience
 
 Copyright (c) 2024 Energy Economics Group (EEG), Technische Universität Wien, Sebastian Zwickl-Bernhard
 
