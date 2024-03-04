@@ -70,7 +70,7 @@ def draw_brace(ax, xspan, text, y_value):
         text,
         ha="center",
         va="bottom",
-        fontsize=12,
+        fontsize=11,
         color="black",
         family="Helvetica",
         bbox=dict(
@@ -134,10 +134,10 @@ def function2(file_name=None, output_name=None):
 
                 if (_end - _start) > 1:
                     if _start == 2025:
-                        draw_brace(ax, (_start, _end), "IDS", _max)
+                        draw_brace(ax, (_start, _end), "Inelastic demand threshold (IDS)", _max)
                     else:
                         draw_brace(
-                            ax, (_start, _end), "Inelastic demand threshold (IDS)", _max
+                            ax, (_start, _end), "IDS", _max
                         )
                 else:
                     pass

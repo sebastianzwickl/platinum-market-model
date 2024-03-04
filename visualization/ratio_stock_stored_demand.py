@@ -71,6 +71,7 @@ def function5(file_name=None, output_name=None):
     ax.xaxis.set_minor_locator(minor_locator)
 
     ax.set_xlabel("Year", fontsize=12)
+    ax.set_ylabel("Ratio between stock and demand", fontsize=12)
     ax.set_ylim([0, 2.3])
 
     _offset = ax.get_ylim()[1] * 0.025

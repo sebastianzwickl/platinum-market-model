@@ -113,7 +113,7 @@ def function1(file_name=None, output_name=None):
     ax.set_ylim([0, 110])
 
     ax.set_xlabel("Year", fontsize=12)
-    ax.set_ylabel("Export capacity [tons/year]", fontsize=12)
+    ax.set_ylabel("Maximum supply capacity [tons/year]", fontsize=12)
 
     plt.tight_layout()
     plt.savefig(os.path.join(file_name, output_name))

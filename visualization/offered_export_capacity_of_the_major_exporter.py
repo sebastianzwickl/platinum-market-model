@@ -69,7 +69,7 @@ def function3(file_name=None, output_name=None):
     ax.xaxis.set_minor_locator(minor_locator)
 
     ax.set_xlabel("Year", fontsize=12)
-    ax.set_ylabel("Maximum export capacity [tons]", fontsize=12)
+    ax.set_ylabel("Offered capacity of major exporter [tons]", fontsize=12)
     ax.set_ylim([0, 150])
 
     # _offset = ax.get_ylim()[1] * 0.025

@@ -230,7 +230,7 @@ def function7(file_name=None, output_name=None):
     ax.xaxis.set_minor_locator(minor_locator)
 
     ax.set_xlabel("Year", fontsize=12)
-    ax.set_ylabel("Weighted average import cost [MEUR/tons]", fontsize=12)
+    ax.set_ylabel("Weighted average supply cost [MEUR/tons]", fontsize=12)
     ax.set_ylim([0, 80])
 
     handles, labels = ax.get_legend_handles_labels()
