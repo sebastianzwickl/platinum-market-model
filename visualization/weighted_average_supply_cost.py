@@ -79,7 +79,7 @@ def function7(file_name=None, output_name=None):
                 linewidth=2,
                 zorder=8,
                 linestyle="solid",
-                label="No import",
+                label="Import",
                 marker="o",
                 markersize=4,
             )
