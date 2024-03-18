@@ -143,5 +143,3 @@ dmypy.json
 *.blg
 
 # exclude reference folder
-workflow/*
-
