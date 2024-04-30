@@ -143,3 +143,5 @@ dmypy.json
 *.blg
 
 # exclude reference folder
+
+KIRAS/*
