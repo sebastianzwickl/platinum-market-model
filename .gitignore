@@ -145,3 +145,5 @@ dmypy.json
 # exclude reference folder
 
 KIRAS/*
+literature/*
+workflow/*
