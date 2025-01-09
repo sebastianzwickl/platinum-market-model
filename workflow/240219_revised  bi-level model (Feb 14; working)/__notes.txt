@@ -1,5 +1,0 @@
-Von den KKTs sind folgende Gleichungen implementiert:
-	- Lambda-related constraints
-	- Mhu-related constraints
-
-Missing: Partielle Ableitungen nach den Entscheidungsvariablen x
